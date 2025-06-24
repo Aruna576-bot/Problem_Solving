@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
         printf("File Arguments: ");
         //taking lenght of argc
         int length=argc-1;
-        //creating integer array for string array to integer array
+        //creating integer array for string array to integer array.
         int arr_int[length];
         for (int i =0; i <length; i++)
         {
